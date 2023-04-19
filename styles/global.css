@@ -27,6 +27,28 @@ button {
   transform: scale(1.5);
 }
 
+.social1{
+  background-image: url(../public/socials/telegram.svg);
+  background-repeat: no-repeat;
+  width: 60px;
+  height: 60px;
+}
+
+.social2{
+  background-image: url(../public/socials/twitter.svg);
+  background-repeat: no-repeat;
+  width: 60px;
+  height: 60px;
+}
+
+.fl1{
+  display: flex;
+}
+
+.p20{
+  padding-top: 20px;
+}
+
 .header_logoContainer__3r6f8 a{
   display: flex;
 }

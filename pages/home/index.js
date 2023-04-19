@@ -57,6 +57,16 @@ Protocol on Arbitrum</Typography>
               <Grid item lg={6} md={6} sm={12} xs={12}>
                 <Button className={classes.buttonInfo} onClick={() => router.push('/presale')}>Participate in Seed Round</Button>
               </Grid>
+              <div className="fl1">
+              <a className="fl1 p20" href="">
+                  <image className="social1"></image>
+                </a>
+              </div>
+              <div className="fl1">
+              <a className="fl1 p20" href="https://twitter.com/tacofinancexyz">
+                  <image className="social2"></image>
+                </a>
+              </div>
             </Grid>
           </Grid>
         </Grid>
