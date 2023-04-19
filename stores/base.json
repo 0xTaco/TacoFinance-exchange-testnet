@@ -1,0 +1,22 @@
+[{
+    "address": "0x87D7f2BBdd273Ab2DE9eAD7dB09e8ac9d3DACb81",
+    "name": "Taco Token",
+    "symbol": "TACO",
+    "decimals": "18",
+    "logo": "/logo.jpg"
+  },
+  {
+    "address": "0xc8169CbaBb6c324066C04476f686CD551Bb79c45",
+    "name": "Wrapped ETH",
+    "symbol": "WETH",
+    "decimals": "18",
+    "logo": ""
+  },
+  {
+    "address": "0xec7Bdada03eaE1Ce4C39e722DCbEfb9eBd201fe2",
+    "name": "Solidly",
+    "symbol": "SOLID",
+    "decimals": "18",
+    "logo": ""
+  }
+]

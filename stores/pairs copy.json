@@ -1,0 +1,18 @@
+[
+    {
+        "id": "0x426df642c684Da6D3d6b11AbBA37E9C6211B76F7",
+        "token0": {
+            "id": "0xcC0B8f12930E4ad3ef86DcB93cbD0eFde5ce3570",
+            "symbol": "WETH",
+            "name": "Wrapped Ether",
+            "__typename": "Token"
+        },
+        "token1": {
+            "id": "0xec7Bdada03eaE1Ce4C39e722DCbEfb9eBd201fe2",
+            "symbol": "SOLID",
+            "name": "Solidly",
+            "__typename": "Token"
+        },
+        "__typename": "Pair"
+    }
+]

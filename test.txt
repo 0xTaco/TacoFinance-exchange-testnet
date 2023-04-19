@@ -1,0 +1,50 @@
+[
+    {
+        "address": "0x46800edAE7677AE8a3BEF9490e6eEf8D56C547d7",
+        "symbol": "vAMM-Taco/WETH",
+        "decimals": 18,
+        "isStable": false,
+        "token0": {
+            "address": "0x87D7f2BBdd273Ab2DE9eAD7dB09e8ac9d3DACb81",
+            "symbol": "Taco",
+            "balance": "986000.000000000000000000",
+            "decimals": 18
+        },
+        "token1": {
+            "address": "0xc8169CbaBb6c324066C04476f686CD551Bb79c45",
+            "symbol": "WETH",
+            "balance": "1.900000000000000000",
+            "decimals": 18
+        },
+        "balance": "19.999999999999999000",
+        "totalSupply": "20.000000000000000000",
+        "reserve0": "2000.000000000000000000",
+        "reserve1": "0.200000000000000000",
+        "claimable0": "0.000000000000000000",
+        "claimable1": "0.000000000000000000"
+    },
+    {
+        "address": "0x46800edAE7677AE8a3BEF9490e6eEf8D56C547d7",
+        "symbol": "vAMM-Taco/WETH",
+        "decimals": 18,
+        "isStable": false,
+        "token0": {
+            "address": "0x87D7f2BBdd273Ab2DE9eAD7dB09e8ac9d3DACb81",
+            "symbol": "Taco",
+            "balance": "986000.000000000000000000",
+            "decimals": 18
+        },
+        "token1": {
+            "address": "0xc8169CbaBb6c324066C04476f686CD551Bb79c45",
+            "symbol": "WETH",
+            "balance": "1.900000000000000000",
+            "decimals": 18
+        },
+        "balance": "19.999999999999999000",
+        "totalSupply": "20.000000000000000000",
+        "reserve0": "2000.000000000000000000",
+        "reserve1": "0.200000000000000000",
+        "claimable0": "0.000000000000000000",
+        "claimable1": "0.000000000000000000"
+    }
+]

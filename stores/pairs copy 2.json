@@ -1,0 +1,27 @@
+[
+    {
+        "address": "0x426df642c684Da6D3d6b11AbBA37E9C6211B76F7",
+        "symbol": "vAMM-WETH/SOLID",
+        "decimals": 18,
+        "isStable": false,
+        "token0": {
+            "address": "0xcC0B8f12930E4ad3ef86DcB93cbD0eFde5ce3570",
+            "symbol": "OXD",
+            "name": "OXD",
+            "decimals": 18,
+            "logoURI": null,
+            "local": true,
+            "balance": "0.000000000000000000"
+        },
+        "token1": {
+            "name": "DEUS",
+            "symbol": "DEUS",
+            "address": "0xec7Bdada03eaE1Ce4C39e722DCbEfb9eBd201fe2",
+            "chainId": 250,
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/18778/large/deus.png",
+            "balance": "0.000000000000000000",
+            "isWhitelisted": true
+        }
+    }
+]
